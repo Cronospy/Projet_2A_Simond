@@ -27,4 +27,5 @@ When there are thirty drones, each drone will make fewer flights.
 This programm, we permit to know the number of round trips for each drone depending on the number of drones. 
 
 In addition, when we use a grid and circle. We have concluded that the simplest and most effective method is the one using a grid. The method using a circle can also be used, but there is a greater of overlap.
+We also have identifed that when a drone arrive facing the circle, the programme consider that it's a rectangle, and create an error of simulation. 
 
