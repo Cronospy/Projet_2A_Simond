@@ -12,7 +12,6 @@ We have created 2 Java codes but they are not the same goal.
 #### → we can change the number of drones  
 #### → the way drone flights, the drones can fly in circles or in grid. 
 <br><br> 
-<br><br>
 Our obstacles are represented by circles and rectangles. 
 We have inclued condition : 
 - If it's a circle, the drones must fly around it. 
