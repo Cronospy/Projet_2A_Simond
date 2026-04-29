@@ -14,7 +14,7 @@ On the interface for our java code :
 
 → the way drone flights, the drones can fly in circles or in grid. 
 
-   
+  w 
 Our obstacles are represented by circles and rectangles. 
 We have inclued condition : 
 - If it's a circle, the drones must fly around it. 
