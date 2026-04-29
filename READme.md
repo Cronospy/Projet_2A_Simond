@@ -9,3 +9,6 @@
 6. Machine Learning
 8. Java Code for algorithm of swarm drone
 9. Unity simulation to detect human with a camera
+
+
+The five of us worked on this project : Ilona BERTIN, Mélina BRUTIER, Florent NASSCHAERT, Louis OSCABY remplaced by Pavlo KULAKOV in january. 
