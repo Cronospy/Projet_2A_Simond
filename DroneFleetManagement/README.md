@@ -18,8 +18,8 @@ We have inclued condition :
 - If it’s a rectangle, the drone must be able to climb to a higher altitude to avoid the obstacle. 
 Also, when the drone climbs to a higher altitude, it appears red in the simulation. 
 
-
-
+ 
+  
 #### CONCLUSION :
 We realised a lot of simulation and we conclued that the number of drones affect the round trips. 
 For example, one of them, we use 10 drones and the other for thirty drones. 
