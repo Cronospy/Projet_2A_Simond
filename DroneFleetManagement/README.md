@@ -15,7 +15,7 @@ This program allows us to simulate and analyze the efficiency of a drone search 
 
 
 
-## For the second : model obstacle avoidance
+## For the second : Model Obstacle Avoidance
 On the interface for our java code :  
 → we can change the number of drones  
 → the way drone flights, the drones can fly in circles or in grid. 
