@@ -4,12 +4,12 @@ We have created 2 Java codes but they are not the same goal.
 
 ## For the first : 
 
-The number of drones is automatically calculated based on their altitude. The higher the drones fly, the larger their field of view on the ground. The program uses this information to determine the spacing between drones as well as the total number required to cover the entire search area.
-Once created, the drones are positioned with regular spacing. They then perform back-and-forth movements following a grid-based trajectory, with horizontal shifts after each pass. A start delay is applied between drones to prevent overlap and ensure coordinated movement.
-At each reset of the program, a target is randomly placed within the search area. During the simulation, the program continuously calculates the distance between each drone and the target. As soon as a drone enters its detection range, the target is considered found.
+The number of drones is automatically calculated based on their altitude. The higher the drones fly, the larger their field of view on the ground. The program uses this information to determine the spacing between drones as well as the total number required to cover the entire search area.\\
+Once created, the drones are positioned with regular spacing. They then perform back-and-forth movements following a grid-based trajectory, with horizontal shifts after each pass. A start delay is applied between drones to prevent overlap and ensure coordinated movement.\\
+At each reset of the program, a target is randomly placed within the search area. During the simulation, the program continuously calculates the distance between each drone and the target. As soon as a drone enters its detection range, the target is considered found.\
 The program then displays which drone detected the target, along with its coordinates. It also records the distance traveled by each drone, the estimated total mission time, and the total number of drones used.
 
-### CONCLUSION:
+#### CONCLUSION:
 This program allows us to simulate and analyze the efficiency of a drone search strategy. It shows how parameters such as altitude and number of drones influence the coverage, coordination, and detection performance. Overall, the grid-based approach combined with proper spacing provides an effective and structured way to explore a search area.
 
 
