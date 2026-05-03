@@ -2,7 +2,7 @@
 
 We have created 2 Java codes but they are not the same goal. 
 
-## For the first : 
+## For the first : Modeling and Simulation of a Drone Search System
 
 The number of drones is automatically calculated based on their altitude. The higher the drones fly, the larger their field of view on the ground. The program uses this information to determine the spacing between drones as well as the total number required to cover the entire search area.\
 Once created, the drones are positioned with regular spacing. They then perform back-and-forth movements following a grid-based trajectory, with horizontal shifts after each pass. A start delay is applied between drones to prevent overlap and ensure coordinated movement.\
