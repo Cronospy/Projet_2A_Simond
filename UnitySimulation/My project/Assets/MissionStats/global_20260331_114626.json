@@ -1,0 +1,16 @@
+{
+    "totalIterations": 50,
+    "successfulIterations": 50,
+    "iterationsPersonFound": 49,
+    "totalPhotos": 2585,
+    "totalServerDetections": 76,
+    "totalTruePositives": 50,
+    "totalFalsePositives": 26,
+    "totalMissedDetections": 7,
+    "avgPhotosToFirstTP": 50.42856979370117,
+    "avgFirstTPDistanceM": 18.45075225830078,
+    "precisionPct": 65.78947448730469,
+    "recallPct": 87.71929931640625,
+    "f1Score": 0.7518796920776367,
+    "generatedAt": "2026-03-31 11:46:26"
+}
