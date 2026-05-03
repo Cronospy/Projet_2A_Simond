@@ -1,0 +1,60 @@
+# ==========================================
+# MACHINE VISION (Python / YOLO)
+# ==========================================
+
+# Ignore all files inside input_images
+MachineVision/drone_project/input_images/*
+# Keep the folder structure via .gitkeep
+!MachineVision/drone_project/input_images/.gitkeep
+
+# Ignore base YOLO weights
+MachineVision/drone_project/brain/yolo26n.pt
+MachineVision/drone_project/brain/yolo26s.pt
+MachineVision/drone_project/brain/yolo26m.pt
+MachineVision/drone_project/brain/yolo26l.pt
+MachineVision/drone_project/brain/yolo26x.pt
+
+# Ignore ALL training weights (including last.pt as it exceeds 100MB)
+MachineVision/drone_project/brain/drone_project/*/weights/*.pt
+
+# Python cache and environments
+__pycache__/
+*.pyc
+MachineVision/venv/
+.env
+
+# ==========================================
+# UNITY SIMULATION (My project)
+# ==========================================
+
+# Ignore huge auto-generated Unity folders
+UnitySimulation/My project/[Ll]ibrary/
+UnitySimulation/My project/[Tt]emp/
+UnitySimulation/My project/[Oo]bj/
+UnitySimulation/My project/[Bb]uild/
+UnitySimulation/My project/[Bb]uilds/
+UnitySimulation/My project/[Ll]ogs/
+UnitySimulation/My project/[Mm]emoryCaptures/
+UnitySimulation/My project/[Uu]ser[Ss]ettings/
+
+# Ignore IDE and project files
+UnitySimulation/My project/*.csproj
+UnitySimulation/My project/*.unityproj
+UnitySimulation/My project/*.sln
+UnitySimulation/My project/*.suo
+UnitySimulation/My project/*.tmp
+UnitySimulation/My project/*.user
+UnitySimulation/My project/*.userprefs
+UnitySimulation/My project/*.pidb
+UnitySimulation/My project/*.booproj
+UnitySimulation/My project/*.svd
+UnitySimulation/My project/*.pdb
+UnitySimulation/My project/*.mdb
+UnitySimulation/My project/*.opendb
+UnitySimulation/My project/*.VC.db
+UnitySimulation/My project/.vs/
+
+# Ignore crash reports and specific artifacts
+UnitySimulation/My project/sysinfo.txt
+UnitySimulation/My project/[Aa]rtifact[Dd]B
+UnitySimulation/My project/[Aa]rtifacts/
